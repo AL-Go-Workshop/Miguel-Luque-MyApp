@@ -1,5 +1,5 @@
 ﻿{
-    "id":  "ESGUID",
+    "id":  "0c51ca8a-93a7-4051-8ade-80ac420d92c3",
     "name":  "MyApp.ES",
     "publisher":  "PUBLISHERNAME",
     "version":  "1.0.0.0",
@@ -18,7 +18,7 @@
             "version":  "1.0.0.0"
         },
         {
-            "id":  "W1GUID",
+            "id":  "e569de6e-22bc-4686-a54f-b165f8b44343",
             "name":  "MyApp.W1",
             "publisher":  "PUBLISHERNAME",
             "version":  "1.0.0.0"

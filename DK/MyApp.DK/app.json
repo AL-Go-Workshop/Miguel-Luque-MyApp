@@ -1,5 +1,5 @@
 ﻿{
-    "id":  "DKGUID",
+    "id":  "c3b638e3-5db8-4075-b87d-b921fccbd4d1",
     "name":  "MyApp.DK",
     "publisher":  "PUBLISHERNAME",
     "version":  "1.0.0.0",
@@ -18,7 +18,7 @@
             "version":  "1.0.0.0"
         },
         {
-            "id":  "W1GUID",
+            "id":  "e569de6e-22bc-4686-a54f-b165f8b44343",
             "name":  "MyApp.W1",
             "publisher":  "PUBLISHERNAME",
             "version":  "1.0.0.0"
