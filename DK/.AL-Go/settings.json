@@ -3,6 +3,6 @@
   "country": "dk",
   "artifact": "///dk/weekly",
   "VersioningStrategy": 16,
-  "RepoVersion": "1.0",
+  "RepoVersion": "1.0.0",
   "artifact": "///DK/daily"
 }
